@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CompareConfig": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\YUAUY\\Desktop\\SSSSSSSSSSSSS\\SSSSSSS\\bukkit.yml D:\\YUAUY\\Desktop\\SSSSSSSSSSSSS\\NSV\\bukkit.yml"
+    }
+  }
+}
